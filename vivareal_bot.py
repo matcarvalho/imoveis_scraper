@@ -21,7 +21,7 @@ urls_dict = {"Brooklin": "https://www.vivareal.com.br/venda/sp/sao-paulo/zona-su
              "Butanta": "https://www.vivareal.com.br/venda/sp/sao-paulo/zona-oeste/butanta/apartamento_residencial/",
              "Republica": "https://www.vivareal.com.br/venda/sp/sao-paulo/centro/republica/apartamento_residencial/",
              "Bras": "https://www.vivareal.com.br/venda/sp/sao-paulo/zona-leste/bras/apartamento_residencial/",
-             "Fregesia do O": "https://www.vivareal.com.br/venda/sp/sao-paulo/zona-norte/freguesia-do-o/apartamento_residencial/",
+             "Freguesia do O": "https://www.vivareal.com.br/venda/sp/sao-paulo/zona-norte/freguesia-do-o/apartamento_residencial/",
              "Higienopolis": "https://www.vivareal.com.br/venda/sp/sao-paulo/centro/higienopolis/apartamento_residencial/",
              "Jardins": "https://www.vivareal.com.br/venda/sp/sao-paulo/zona-oeste/jardins/apartamento_residencial/",
              "Lapa": "https://www.vivareal.com.br/venda/sp/sao-paulo/zona-oeste/lapa/apartamento_residencial/",
